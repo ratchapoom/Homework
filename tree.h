@@ -130,6 +130,6 @@ void Tree<T>::balance(T data[], int first, int last) {
 	}
 }
 
-
+//I can do this homework just like this.It's quite hard for me but I will try it later.So sorry about it :(
 
 #endif // Binary_Search_Tree
