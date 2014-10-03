@@ -38,4 +38,6 @@ int main()
 	newtree.balance(mytree.data, 0, n - 1);
 	cout << "New height of the balaced tree is : " << newtree.height() - 1 << endl;
 
+//I can do this homework just like this.It's quite hard for me but I will try it later.So sorry about it :(
+
 }
